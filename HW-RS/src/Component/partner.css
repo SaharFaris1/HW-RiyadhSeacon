@@ -1,0 +1,19 @@
+.partners-container {
+ 
+    align-content: center;
+    text-align: center;
+
+
+
+  }
+
+  .partner-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .partners-logos img {
+    max-width: 100px; 
+    margin: 0 10px; 
+ 
+  }
