@@ -32,7 +32,7 @@ function About() {
                 </div>
               </div>
             </div>
-            <div className="video-box about-card">
+            <div className="video-box ">
               <iframe
                 title="RS Promo 2023"
                 src="https://www.youtube.com/embed/g8-NjAOWhME?autoplay=1"
